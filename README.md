@@ -1,1 +1,1 @@
-# Live_Object_Detection
+# face_recognition_project
